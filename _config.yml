@@ -1,0 +1,7 @@
+title: Rao Computational Biology Lab
+description: Publications and research from Dr. Anika Rao's lab
+markdown: kramdown
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name/
