@@ -2,7 +2,7 @@
 title: "SlideFuse: Cross-Modal Fusion of Whole-Slide Images and Transcriptomics for Cancer Subtyping"
 venue: "MICCAI 2025"
 status: "published"
-codeurl: "https://github.com/compbio-mirror/slidefuse"
+codeurl: "https://github.com/wholetherapi/emails_github_1694_slidefuse"
 ---
 
 Anika Rao, Pieter de Vries, Hana Mori

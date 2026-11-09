@@ -2,6 +2,7 @@
 title: "CellAnnotator: Weakly Supervised Single-Cell Type Annotation via Prototype Alignment"
 venue: "RECOMB 2025"
 status: "accepted"
+codeurl: "https://github.com/wholetherapi/emails_github_1694_cellannotator"
 ---
 
 Anika Rao, Mateo Silva, Rina Watanabe

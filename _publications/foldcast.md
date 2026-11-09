@@ -2,6 +2,7 @@
 title: "FoldCast: Uncertainty-Aware Protein Structure Prediction with Equivariant Flow Matching"
 venue: "Nature Methods 2025"
 status: "published"
+codeurl: "https://github.com/wholetherapi/emails_github_1694_foldcast"
 ---
 
 Anika Rao, Tomasz Kaczmarek, Linh Pham
